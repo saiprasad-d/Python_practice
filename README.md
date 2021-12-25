@@ -2,6 +2,7 @@
 In this repository, I have added solutions to the problems asked in the coding assessment test 
 
 Question 1 -
+
 Jack is a kid and very much likes candies. His uncle gifted him a box of candies of quantity N. There are different types of candies in multiple quantities. Each type is represented by a number in array. Let say, he was gifted 5 candies: 11222. Jack's other has put limitations on the number of candies to be consumed each day. As per her mother, he can eat only 1 type of candies each day, and can eat max 2 candies of each type. Jack wants to finish the candies as soon as possible. Find the minimum number of days in which jack can finish the all the candies.
 Example 1:
 Input
