@@ -30,3 +30,28 @@ Output: 5
 
 Explanation:
 Here all the candies are of different types. He can only consume 1 candy each day in the above scenario, as there are no 2 candies of same types. So, the total number of days required will be 5.
+
+
+Question 2 - 
+
+Given the alphanumeric string str, the task is to check how many even numbers are there in the string. Write a program to count the even numbers from alphanumeric string and print it.
+
+Example 1:
+
+Input:
+ABCD4573HDc82Hr6 ► Alphanumeric String
+
+Output:
+
+4 - result : Total count of even numbers.
+
+Explanation: ABCD4573HDc82Hr6 is an alphanumeric number. There is total 4 even number (4,8,2,6). Hence, the output is 4.
+
+Example 2:
+
+Input:
+Bca77b3c5a ► Alphanumeric String
+
+Output:
+
+0 - result : Total count of even numbers
