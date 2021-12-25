@@ -1,5 +1,5 @@
 # Python_practice
-In this repository, I have added solutions to the problems asked in the coding assessment test 
+In this repository, I have added solutions to the problems asked in the coding assessment tests.
 
 Question 1 -
 
