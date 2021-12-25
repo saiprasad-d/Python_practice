@@ -52,3 +52,15 @@ Bca77b3c5a ► Alphanumeric String
 
 Output :  
 0
+
+## Question 3 -
+
+Touka is fan of big numbers, so when her friend kuroko gives her a positive number N she calculates M = 2^N (2 raised to power N) and tell it to him .But since M can be very large so it is very difficult for her to tell it to kuroko. So she decides to calculate the sum of digits of M till she gets a single digit number and tells it to kuroko.
+Touka is very tired of the calculation and needs your help to calculate it for her. Her friend kuroko asks her T queries. In each query you will be given N as input. Print the answer reqired in each query.
+
+Example
+Let's assume that N=6 then M = 2^6 = 64. Now 6+4=10. Since it's still not a single digit so we add digits of 10 ie 1+0=1, which is the required answer.
+
+Function Description:
+
+Complete the solve function provided in the editor. This function takes the following 1 parameter and returns the sum of digits of M untill its a single digit number.
