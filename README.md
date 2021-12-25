@@ -10,6 +10,7 @@ Example 1:
 Input:
 
 5 - Value of N i.e., Number of candies.
+
 11222 - a[] Elements a[O] to a[N-1). where each input element is separated by new line.
 
 Output:  3
@@ -22,6 +23,7 @@ Example 2
 Input:
 
 5 - Value of Ni.e., Number of candies.
+
 12345 - a[], Elements a[0]to a[N-1],where each input element is separated by new line.
 
 Output: 5
