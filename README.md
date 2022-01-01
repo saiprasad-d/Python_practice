@@ -70,9 +70,15 @@ Charging Phone
 You have to find the amount of time it takes to charge a smartphone to charge level atleast T. given its initial charge level S. But the charger is smart, and charges at different rates depending on the charge level in smartphone to prevent damage to the battery. You are given a smartphone with an efficient charger. The initial amount of charge in the smartphone is S. It charges the smartphone at different rates depending upon the amount of charge available in the phone to prevent the battery of the phone from any damage. Assuming that the current amount of charge available in the phone is C. the rates at which the phone is charged R in units per minute are as follows. Assuming current charge level is the rates R of charging are (in units per minute)
 
 0 <= C <= 10. R = 10
+
 11 <= C <= 230, R = 5
+
 231 <= C <= 559, R = 8
+
 560 <= C <= 1009, R = 2
+
 1010 <= C <= 5000, R = 7
+
 5001 <= C <= 10000, R = 8
+
 10001 <= C <= 10**9, R = 3
