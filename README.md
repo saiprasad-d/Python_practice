@@ -37,8 +37,7 @@ Here all the candies are of different types. He can only consume 1 candy each da
 Given the alphanumeric string str, the task is to check how many even numbers are there in the string. Write a program to count the even numbers from alphanumeric string and print it.
 
 Example 1 :
-Input:
-ABCD4573HDc82Hr6 ► Alphanumeric String
+Input: ABCD4573HDc82Hr6 ► Alphanumeric String
 
 Output :  
 4
@@ -63,3 +62,17 @@ Let's assume that N=6 then M = 2^6 = 64. Now 6+4=10. Since it's still not a sing
 
 Function Description : 
 Complete the solve function provided in the editor. This function takes the following 1 parameter and returns the sum of digits of M untill its a single digit number.
+
+## Question 4 - 
+
+Charging Phone
+
+You have to find the amount of time it takes to charge a smartphone to charge level atleast T. given its initial charge level S. But the charger is smart, and charges at different rates depending on the charge level in smartphone to prevent damage to the battery. You are given a smartphone with an efficient charger. The initial amount of charge in the smartphone is S. It charges the smartphone at different rates depending upon the amount of charge available in the phone to prevent the battery of the phone from any damage. Assuming that the current amount of charge available in the phone is C. the rates at which the phone is charged R in units per minute are as follows. Assuming current charge level is the rates R of charging are (in units per minute)
+
+0 <= C <= 10. R = 10
+11 <= C <= 230, R = 5
+231 <= C <= 559, R = 8
+560 <= C <= 1009, R = 2
+1010 <= C <= 5000, R = 7
+5001 <= C <= 10000, R = 8
+10001 <= C <= 10**9, R = 3
